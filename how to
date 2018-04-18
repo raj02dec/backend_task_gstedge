@@ -1,0 +1,3 @@
+Step-1: pull out both 'index.php' and 'gst.sql' file.
+step-2: import 'gst.sql' file on phpmyadmin
+step-3: run
